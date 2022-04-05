@@ -207,7 +207,7 @@ interface Draggable {
     }
   
     dragEndHandler(_: DragEvent) {
-      console.log('DragEnd');
+      console.log('DragEndaa');
     }
   
     configure() {
